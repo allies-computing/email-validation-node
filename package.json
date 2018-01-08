@@ -1,0 +1,9 @@
+{
+    "name": "allies-email-validation-example",
+    "author": "Stephen Keable from Allies Computing",
+    "description" : "Simple demo which passes email address to the API on form submit and shows a message based on response. Including showing alternative suggestions for common typos such as gamil.com instead of gmail.com",
+    "version": "0.0.1",
+    "dependencies": {
+        "request": "^2.81.0"
+    }
+}
